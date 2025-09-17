@@ -1,2 +1,2 @@
 # Hola-mundo
-Proyecto hola mundo
+Proyecto hola-mundo
